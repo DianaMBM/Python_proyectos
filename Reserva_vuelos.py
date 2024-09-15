@@ -36,7 +36,7 @@ def main():
         elif tipo_vuelo == "internacional":
             impuesto = 500
             print(
-                "El impuesto del vuelo internacional es de Q500.00, este incluye el impuesto de la entrada, salida, llegada, iva, tasas aeroportuarias y de seguridad."
+                "El impuesto del vuelo internacional es de Q500.00. Incluye el impuesto de la entrada, salida, llegada, IVA, tasas aeroportuarias y de seguridad."
             )
         elif tipo_vuelo == "nacional":
             impuesto = 100
